@@ -1,14 +1,3 @@
-INDIE GAMES SUMMIT とかのイベントとかも調べてみたい
-
-前回からの進捗 #4
-
-ガッツリゲーム作り始めた（AIを使えばロジックは簡単に作れる。問題はアセット）
-
-## プラットフォーム
-
-- エンジン: godot
-- 公開: itch.io
-
 ## ゲームコンセプト
 
 2d版ローグライクカメラ監視ゲーム（Procedural observation 2d）
@@ -19,6 +8,10 @@ INDIE GAMES SUMMIT とかのイベントとかも調べてみたい
 - ローグライクマップ（監視ゲームとの組み合わせは一個もない、異常定義が難しいから、2dなら不可能じゃない）
 - 他プレイヤーと協力して探すモード（カーソル表示、3dでCOOPはある、ソロ時にはNPCも用意してもいいかも、サーバーどうするか問題、無料）
 
+## なんで開発したいか
+
+監視ゲーム独特の通報システムなどのアクション
+
 ## ロードマップ
 
 なるべくはやく公開
@@ -28,11 +21,9 @@ INDIE GAMES SUMMIT とかのイベントとかも調べてみたい
 
 ## メリット
 
-インディー系で開発しやすい2dで相性もよし
-
-システムさえ作れば、カメラで写す場所を無限に変えるだけで幾つでもゲームを量産可能。
-
-課金同線はβならNONATE、クラファンもあり、Steamなら$3くらいで販売
+- インディー系で開発しやすい2dで相性もよし
+- システムさえ作れば、カメラで写す場所を無限に変えるだけで幾つでもゲームを量産可能。
+- 課金同線はβならNONATE、クラファンもあり、Steamなら$3くらいで販売
 
 ## デメリット
 
@@ -58,28 +49,36 @@ INDIE GAMES SUMMIT とかのイベントとかも調べてみたい
 - https://www.gamedevmarket.net/
 - https://www.gamedeveloperstudio.com/index.php
 
+## プラットフォーム
+
+- エンジン: godot（steam公開までは有料sdkが必要になるかも）
+- 公開: itch.io
+
 ## ステージ
 
 ### tarkov woods
 
-![](https://tarkov-hiyoko.com/wp-content/uploads/2022/01/s-Woods_map_v0.12.9b.jpg)
+<img src="https://tarkov-hiyoko.com/wp-content/uploads/2022/01/s-Woods_map_v0.12.9b.jpg" width="300">
 
 伐採場
 
-![](https://escapefromtarkov.fandom.com/wiki/Woods?file=Woods_Showcase_24.png)
+<img src="https://minio.tarkov.help/production/img/articles/lesopilka.jpg" width="300">
 
 医療キャンプ
 
-![](https://cdn-ak.f.st-hatena.com/images/fotolife/M/MonoTone/20220908/20220908123115.png)
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/M/MonoTone/20220908/20220908123115.png" width="300">
 
 USECキャンプ
 
-![](https://xboxplay.games/uploadStream/60589.jpg)
+<img src="https://xboxplay.games/uploadStream/60589.jpg" width="300">
 
-- 旧村
-- 墜落飛行機付近
+SCAV BUNKER
 
-![](https://escapefromtarkov.fandom.com/wiki/Woods?file=Woods_Showcase_12.png)
+<img src="https://cdn.wikiwiki.jp/to/w/eft/img/::attach/WOODS-ESC-Scav_Bunker-others_2.jpg?rev=251bfbb50776104ed9ce4a2c2a32348c&t=20231020133628" width="300">
+
+墜落飛行機付近
+
+<img src="https://www.escapefromtarkov.com/uploads/content/news/content_thumb_47665fe471a6eb3df769e9846f2449ff.jpg?it" width="300">
 
 ### scp containment breach
 
@@ -110,46 +109,34 @@ USECキャンプ
 
 ## 参考動画
 
+インディーゲームの売れ方を調べたい、広告宣伝とかの工夫とかも
+Youtuberに取り上げられる、トレンドゲームで（カメラ監視とか、シミュレーションゲームとか）
+
 - 桜井政博
 - ゲームさんぽ
 - 【UNDERTALE開発秘話】ゲームの歴史を変えたのは たった一人の“無名の天才”だった【ゆっくり解説＆ずんだもん: https://www.youtube.com/watch?v=HmS3JuKgKr8
 - 【収益公開】８番出口(偽)で稼いだらゆうちょ銀行に入金止められた話【ライク作品】: https://youtu.be/1DMtuPgHD88?si=78xEUxjpEF3CWrsB
 
-- 大作ゲームも最初は似たような感じ。ゲームの衰退も参考になる。
+- 大企業の大作ゲーム（FF、妖怪ウォッチ、）も最初は似たような感じ。ゲームの衰退も参考になる。
 
 ## 参考サイト
 
 https://www.geishatokyo.com/
+
+## 前回からの進捗 #4
+
+ガッツリゲーム作り始めた（AIを使えばロジックは簡単に作れる。問題はアセット）
 
 ## 過去のアイデアたち
 
 - 協力型アクションホラー
 - 作業感あるゲーム
 - シミュレーターゲーム
-
-ガチャガチャシミュレーターhttps://store.steampowered.com/app/4164900/_/?l=japanese
-
-すでに存在してた
-
-モデリング技術学びたい
-
-Webゲームだと収益化までの動線が弱い
-
-[itch.io](http://itch.io/) とかに公開する
-
-今後は本仕事１つ、趣味の仕事で３〜４でいくつか稼げるようになるらいい？
-
-Steamで一本出してみれば
-
-卒業制作ではSteamゴール
-
-短期間で売れるゲーム
-
-SteamでできればUnrealEngineとかがいいかも、Godotにする、steam公開までは有料sdkが必要になるかも
-
-インディーゲームの売れ方を調べたい
-
-Youtuberに取り上げられる、トレンドゲームで（カメラ監視とか、シミュレーションゲームとか）
+- モデリング技術学びたい
+- Webゲームだと収益化までの動線が弱い
+- Steamで一本出してみれば
+- 卒業制作ではSteamゴール
+- 短期間で売れるゲーム
 
 要素
 
@@ -161,35 +148,29 @@ Youtuberに取り上げられる、トレンドゲームで（カメラ監視と
 - ルーティーン化とか？
 - AIでいいアプリじゃなくて
 - 人と人が繋がる × ちょっとハード × 歪み
-
-ルーティーン化アプリ
-
-OSレベルに組み込む
-
-webアプリをunityにできるやつ
-
-Webゲーム
-
-人と人が繋がる × アクションでちょっとハード × 歪み（ダークファンタジー）
+- ルーティーン化アプリ
+- OSレベルに組み込む
+- webアプリをunityにできるやつ
+- Webゲーム
+- 人と人が繋がる × アクションでちょっとハード × 歪み（ダークファンタジー）
 
 Chattyと話してて出たアイデアピックアップ
 
-誰かと仲良くなるほど、その人の「不幸」を引き受けるゲーム
+- 誰かと仲良くなるほど、その人の「不幸」を引き受けるゲーム
+- フレンドが増えるほど、自分の操作が不自由になる
+- ボイスチャットで声が似てくる（最終的に区別つかない）
+- 信頼度が上がると相手の秘密が見えるが、同時に自分も暴かれる
+- 友情ポイントがMAXになるとどちらかが消える
+- 他プレイヤーに自分の記憶を売って進むゲーム
+- 他人の記憶の中でしか存在できない
+- AIが敵になって強力して倒すゲームでもいいかも
 
-フレンドが増えるほど、自分の操作が不自由になる
+- 現実世界で近いゲーム
+  - Ultimate Chicken Horse
+  - Slay the Spire
+  - Baba Is You
 
-ボイスチャットで声が似てくる（最終的に区別つかない）
+## 負けたアイデア
 
-信頼度が上がると相手の秘密が見えるが、同時に自分も暴かれる
-
-友情ポイントがMAXになるとどちらかが消える
-
-他プレイヤーに自分の記憶を売って進むゲーム
-
-他人の記憶の中でしか存在できない
-
-AIが敵になって強力して倒すゲームでもいいかも
-
-現実世界で近いゲーム
-
-Ultimate Chicken Horse、Slay the Spire、[Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/?l=japanese)
+ガチャガチャシミュレーター（すでに存在してた）
+https://store.steampowered.com/app/4164900/
