@@ -123,8 +123,13 @@ SCAV BUNKER
 ## 参考ゲーム
 
 - im on observation duty
-- fnaf
+  - 特に 2 はグラフィック的に参考になる。
+  - [https://www.youtube.com/watch?v=Zmp9kXUn5X0](https://www.youtube.com/watch?v=Zmp9kXUn5X0) 
+- FNAF 1、時間を詳細に表示しないことによって緊張感をより高められそう。
+  - [https://www.youtube.com/watch?v=9eUnE7PtI7c](https://www.youtube.com/watch?v=9eUnE7PtI7c)
 - 8番出口
+- HELLMART　のカメラ視点、グラフィック
+  - [https://www.youtube.com/watch?v=SnCG-_lf74w&list=LL&index=1](https://www.youtube.com/watch?v=SnCG-_lf74w&list=LL&index=1)
 - その他リスペクト系インディーゲーム
 - ２d感はUNDERTALEとかを
 
