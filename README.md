@@ -57,16 +57,14 @@ SIWの学生や他メディアで募集する。
 なるべく無料のもので。
 まず必要なアセット（飛行機とか銃とか車とか）
 
-- kenney roguelikeシリーズ
-  - https://kenney.nl/assets/micro-roguelike
-  - https://kenney.nl/assets/roguelike-modern-city
-  - https://kenney.nl/assets/roguelike-indoors
-  - https://kenney.nl/assets/roguelike-caves-dungeons
+- [https://assetstore.unity.com/](https://assetstore.unity.com/)
+- [https://itch.io/game-assets](https://itch.io/game-assets)
+- [https://kenney.nl/](https://kenney.nl/)
 - https://poly.pizza/
 - https://opengameart.org/
 - https://soundimage.org/
 - https://www.gameart2d.com/#gsc.tab=0
-- https://craftpix.net/?srsltid=AfmBOoq1rMwGC2LxRgzsGMirOmmC16CPL3KwEJX_w2CPPAYp4szr9TsG
+- https://craftpix.net
 - https://www.gamedevmarket.net/
 - https://www.gamedeveloperstudio.com/index.php
 
